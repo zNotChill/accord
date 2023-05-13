@@ -1,3 +1,6 @@
 [submodule "accord-game"]
 	path = accord-game
 	url = https://github.com/zNotChill/accord-game.git
+[submodule "accord-web"]
+	path = accord-web
+	url = https://github.com/zNotChill/accord-web
